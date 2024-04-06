@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A. K. M Samioul Islam</h1>
 <h3 align="center">An undergraduate student pursuing a BSc(Eng) degree in Computer Science and Engineering (CSE) at Khulna University of Engineering & Technology (KUET)</h3>
-<img align="right" alt="coding" w="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samioul51&label=Profile%20views&color=0e75b6&style=flat" alt="samioul51" /> </p>
 
 - ⚡ Fun fact **😎**
