@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/a-k-m-samioul-islam-23686229b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-k-m-samioul-islam-rian-23686229b" height="30" width="40" /></a>
 <a href="https://fb.com/samioul.rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samioul.rian" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/codersir51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codersir51" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codersir51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codersir51" height="30" width="40" /></a>
+<!--<a href="https://www.leetcode.com/codersir51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codersir51" height="30" width="40" /></a>!-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
