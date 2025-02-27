@@ -11,8 +11,9 @@
 <a href="https://fb.com/samioul.rian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samioul.rian" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/SIR51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="SIR51" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sir51" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="sir51" height="30" width="40" />
+    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="sir51" height="30" width="40" />
 </a>
+
 
 <a href="https://leetcode.com/u/SIR51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SIR51" height="30" width="40" /></a>
 </p>
