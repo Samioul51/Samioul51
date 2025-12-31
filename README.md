@@ -5,6 +5,11 @@
 <h1 align="center">Hi 👋, I'm A. K. M Samioul Islam</h1>
 <h3 align="center">An undergraduate student pursuing a BSc(Eng) degree in Computer Science and Engineering (CSE) at Khulna University of Engineering & Technology (KUET)</h3>
 
+- 🌱 I’m currently exploring **Next.js**
+
+- 💬 Ask me about **MERN Stack**
+
+- 📫 How to reach me **akmsamioulislam51@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/771758680450138132) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-k-m-samioul-islam/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SIR_08) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28455630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akmsamioulislam51@gmail.com) 
