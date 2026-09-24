@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1GcK5YTRGn51nqCONpIsgzLHwkHVJ0SVM" alt="Banner" />
+  <img src="https://drive.google.com/uc?export=view&id=1mSTemcF2oeMqfkocFvC2Gtl1Wq6xQ7oY" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm A. K. M Samioul Islam</h1>
